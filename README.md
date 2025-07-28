@@ -1,4 +1,4 @@
-# Transcribe UI Tool 🎧📝
+# Transcribe UI Console 🎧📝
 
 A clean and minimal **Next.js-based frontend** for uploading `.wav` audio files and displaying AI-generated transcriptions. Designed to be fast, extendable, and developer-friendly.
 
