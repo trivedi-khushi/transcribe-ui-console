@@ -36,3 +36,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+## 🤝 Contributing
+PRs and feedback welcome! If you'd like to enhance the UI, add backend support, or improve accessibility — feel free to contribute.
